@@ -1,0 +1,5 @@
+Flask
+gunicorn
+protobuf
+requests
+python-telegram-bot
