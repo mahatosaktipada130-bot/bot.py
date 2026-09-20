@@ -1,5 +1,5 @@
 Flask
 gunicorn
-protobuf
 requests
 python-telegram-bot
+protobuf==3.20.3
